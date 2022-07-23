@@ -1,7 +1,7 @@
 <h1 align="center">ZUBIDUBI</h1>
 <h3 align="center">It is the true power of habits, small changes, big rewards.</h3>
 
- **I am a software developer looking to grow alongside my colleagues. I'm lookin to face challenges, learn a lot, and get the best version of myself.**
+ **I am a software developer looking to grow alongside my colleagues. I'm looking to face challenges, learn a lot, and get the best version of myself.**
 
 - 🌱 I’m currently learning **React**
 
