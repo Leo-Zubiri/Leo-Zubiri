@@ -1,4 +1,4 @@
-<h1 align="center">ZUBIDUBI</h1>
+<h1 align="center"> Hi 👋,  I'm ZUB</h1>
 
 ![](Bg.jpg)
 
